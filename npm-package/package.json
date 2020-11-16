@@ -1,0 +1,28 @@
+{
+  "name": "@pointotech/detect-browser-feature-webp",
+  "version": "1.0.1",
+  "description": "Detects the browser's support for the WebP image format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webp",
+    "modernizr",
+    "browser",
+    "feature",
+    "detect",
+    "detection",
+    "image"
+  ],
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "author": "Pointotech",
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Pointotech/detect-browser-feature-webp.git",
+    "directory": "npm-package"
+  }
+}
