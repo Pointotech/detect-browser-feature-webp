@@ -10,7 +10,7 @@ WebP was invented by Google. This implementation is based on Google's official r
 
 This is the package published to https://www.npmjs.com/package/@pointotech/detect-browser-feature-webp .
 
-[npm-package README](./npm-package/README.md)
+[npm-package](./npm-package/)
 
 ### usage-example
 
