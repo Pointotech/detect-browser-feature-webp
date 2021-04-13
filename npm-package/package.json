@@ -1,8 +1,8 @@
 {
   "name": "@pointotech/detect-browser-feature-webp",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Detects the browser's support for the WebP image format.",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "publish": "npm publish --access public"
@@ -17,7 +17,7 @@
     "image"
   ],
   "devDependencies": {
-    "typescript": "^4.0.5"
+    "typescript": "^4.2.4"
   },
   "author": "Pointotech",
   "license": "GPL-3.0-or-later",
