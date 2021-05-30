@@ -17,3 +17,15 @@ This is the package published to https://www.npmjs.com/package/@pointotech/detec
 This is a working web app which demonstrates an example usage of the `@pointotech/detect-browser-feature-webp` NPM package.
 
 [usage-example](./usage-example/)
+
+## How to publish on NPM
+
+Bump up the version number in `npm-package/package.json`.
+
+In the root of this repo, run:
+
+```bash
+cd npm-package
+npm login
+npm publish --access public
+```

@@ -1,6 +1,6 @@
 {
   "name": "@pointotech/detect-browser-feature-webp",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "Detects the browser's support for the WebP image format.",
   "main": "index.ts",
   "scripts": {
@@ -17,7 +17,7 @@
     "image"
   ],
   "devDependencies": {
-    "typescript": "^4.2.4"
+    "typescript": "^4.3.2"
   },
   "author": "Pointotech",
   "license": "GPL-3.0-or-later",
