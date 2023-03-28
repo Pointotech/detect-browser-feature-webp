@@ -29,5 +29,3 @@ cd npm-package
 npm login
 npm publish --access public
 ```
-
-# Github test commit
